@@ -1,2 +1,2 @@
-# Sound-GANs
+# Speech-GANs
 to be done...
